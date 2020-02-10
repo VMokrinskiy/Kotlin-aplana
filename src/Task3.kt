@@ -7,5 +7,4 @@ fun main(Args: Array<String>){
     var fiveDouble = five.toDouble()
     var fiveLong = five.toLong()
     var fiveFloat = five.toFloat()
-    print(fiveByte)
 }
