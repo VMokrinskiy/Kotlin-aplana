@@ -36,7 +36,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Kotlin.Task4Kt">
+  <component name="RunManager" selected="Kotlin.Task6Kt">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -268,32 +268,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hello_worldKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlim aplana" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Hello_worldKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task1Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlim aplana" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Task1Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Task2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlim aplana" />
       <option name="VM_PARAMETERS" />
@@ -328,6 +302,32 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="Task4Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task5Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlim aplana" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Task5Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task6Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlim aplana" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Task6Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -402,19 +402,19 @@
     </configuration>
     <list>
       <item itemvalue="Kotlin.Unnamed" />
-      <item itemvalue="Kotlin.Hello_worldKt" />
-      <item itemvalue="Kotlin.Task1Kt" />
       <item itemvalue="Kotlin.Task3Kt" />
       <item itemvalue="Kotlin.Task2Kt" />
       <item itemvalue="Kotlin.Task4Kt" />
+      <item itemvalue="Kotlin.Task5Kt" />
+      <item itemvalue="Kotlin.Task6Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Task6Kt" />
+        <item itemvalue="Kotlin.Task5Kt" />
         <item itemvalue="Kotlin.Task4Kt" />
         <item itemvalue="Kotlin.Task3Kt" />
         <item itemvalue="Kotlin.Task2Kt" />
-        <item itemvalue="Kotlin.Task1Kt" />
-        <item itemvalue="Kotlin.Hello_worldKt" />
       </list>
     </recent_temporary>
   </component>
@@ -456,22 +456,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="446" y="113" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581353495425" />
-    <state width="1286" height="162" key="GridCell.Tab.0.bottom" timestamp="1581355703159">
+    <state width="1286" height="162" key="GridCell.Tab.0.bottom" timestamp="1581360284572">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581355703159" />
-    <state width="1286" height="162" key="GridCell.Tab.0.center" timestamp="1581355703159">
+    <state width="1286" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581360284572" />
+    <state width="1286" height="162" key="GridCell.Tab.0.center" timestamp="1581360284572">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="162" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581355703159" />
-    <state width="1286" height="162" key="GridCell.Tab.0.left" timestamp="1581355703159">
+    <state width="1286" height="162" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581360284572" />
+    <state width="1286" height="162" key="GridCell.Tab.0.left" timestamp="1581360284572">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="162" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581355703159" />
-    <state width="1286" height="162" key="GridCell.Tab.0.right" timestamp="1581355703159">
+    <state width="1286" height="162" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581360284572" />
+    <state width="1286" height="162" key="GridCell.Tab.0.right" timestamp="1581360284572">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="162" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581355703159" />
+    <state width="1286" height="162" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581360284572" />
     <state x="105" y="0" key="SettingsEditor" timestamp="1581355732580">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
