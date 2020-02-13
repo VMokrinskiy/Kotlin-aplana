@@ -1,3 +1,5 @@
+package Module1
+
 fun main (Args: Array<String>){
     var a: Any? = null
     a = 7
