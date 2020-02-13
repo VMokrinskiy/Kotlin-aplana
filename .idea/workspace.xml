@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29f1bb9a-74dc-4605-ac23-350b1dbf18f2" name="Default" comment="">
+    <list default="true" id="29f1bb9a-74dc-4605-ac23-350b1dbf18f2" name="Default" comment="Added module 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello world.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Module1/Hello world.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Module1/Task1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Module1/Task2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Module1/Task3.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Module1/Task4.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task5.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Module1/Task5.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Module1/Task6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlim aplana/META-INF/Kotlim aplana.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Kotlim aplana/META-INF/Kotlim aplana.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlim aplana/Task5Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Kotlim aplana/Task6Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Module2/Task7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Module2/Task7.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +47,7 @@
       <recent name="C:\Users\User\Desktop\Kotlim aplana\src\Module1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Module1.Task6Kt">
+  <component name="RunManager" selected="Kotlin.Module2.Task9Kt">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -282,45 +279,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Module1.Task2Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlim aplana" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Module1.Task2Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Module1.Task3Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlim aplana" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Module1.Task3Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Module1.Task4Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Kotlim aplana" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Module1.Task4Kt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Module1.Task5Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Kotlim aplana" />
       <option name="VM_PARAMETERS" />
@@ -342,6 +300,45 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="Module1.Task6Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Module2.Task7Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlim aplana" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Module2.Task7Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Module2.Task8Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlim aplana" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Module2.Task8Kt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Module2.Task9Kt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Kotlim aplana" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Module2.Task9Kt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -416,19 +413,19 @@
     </configuration>
     <list>
       <item itemvalue="Kotlin.Unnamed" />
-      <item itemvalue="Kotlin.Module1.Task2Kt" />
-      <item itemvalue="Kotlin.Module1.Task3Kt" />
-      <item itemvalue="Kotlin.Module1.Task4Kt" />
       <item itemvalue="Kotlin.Module1.Task5Kt" />
       <item itemvalue="Kotlin.Module1.Task6Kt" />
+      <item itemvalue="Kotlin.Module2.Task7Kt" />
+      <item itemvalue="Kotlin.Module2.Task8Kt" />
+      <item itemvalue="Kotlin.Module2.Task9Kt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Module2.Task9Kt" />
+        <item itemvalue="Kotlin.Module2.Task8Kt" />
+        <item itemvalue="Kotlin.Module2.Task7Kt" />
         <item itemvalue="Kotlin.Module1.Task6Kt" />
         <item itemvalue="Kotlin.Module1.Task5Kt" />
-        <item itemvalue="Kotlin.Module1.Task4Kt" />
-        <item itemvalue="Kotlin.Module1.Task3Kt" />
-        <item itemvalue="Kotlin.Module1.Task2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -445,6 +442,14 @@
       <workItem from="1581167573156" duration="185000" />
       <workItem from="1581168237406" duration="90000" />
     </task>
+    <task id="LOCAL-00001" summary="Added module 2">
+      <created>1581614582082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581614582082</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -452,6 +457,46 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/User/Desktop/Kotlim aplana/src" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added module 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added module 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="409" y="33" key="#Unnamed" timestamp="1581172152025">
@@ -466,37 +511,61 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1581172145697" />
-    <state x="354" y="0" key="CommitChangelistDialog2" timestamp="1581614546410">
+    <state x="354" y="0" key="CommitChangelistDialog2" timestamp="1581618873047">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="354" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581614546410" />
+    <state x="354" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581618873047" />
     <state x="446" y="113" key="FileChooserDialogImpl" timestamp="1581353495425">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="446" y="113" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581353495425" />
-    <state width="1286" height="162" key="GridCell.Tab.0.bottom" timestamp="1581360284572">
+    <state width="1286" height="162" key="GridCell.Tab.0.bottom" timestamp="1581618820399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581360284572" />
-    <state width="1286" height="162" key="GridCell.Tab.0.center" timestamp="1581360284572">
+    <state width="1286" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581618820399" />
+    <state width="1286" height="162" key="GridCell.Tab.0.center" timestamp="1581618820399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="162" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581360284572" />
-    <state width="1286" height="162" key="GridCell.Tab.0.left" timestamp="1581360284572">
+    <state width="1286" height="162" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581618820399" />
+    <state width="1286" height="162" key="GridCell.Tab.0.left" timestamp="1581618820399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="162" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581360284572" />
-    <state width="1286" height="162" key="GridCell.Tab.0.right" timestamp="1581360284572">
+    <state width="1286" height="162" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581618820399" />
+    <state width="1286" height="162" key="GridCell.Tab.0.right" timestamp="1581618820399">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="162" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581360284572" />
+    <state width="1286" height="162" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581618820399" />
+    <state width="1286" height="204" key="GridCell.Tab.1.bottom" timestamp="1581617400989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581617400989" />
+    <state width="1286" height="204" key="GridCell.Tab.1.center" timestamp="1581617400989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1581617400989" />
+    <state width="1286" height="204" key="GridCell.Tab.1.left" timestamp="1581617400989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1581617400989" />
+    <state width="1286" height="204" key="GridCell.Tab.1.right" timestamp="1581617400989">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1581617400989" />
     <state x="105" y="0" key="SettingsEditor" timestamp="1581355732580">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="105" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581355732580" />
+    <state x="265" y="106" key="Vcs.Push.Dialog.v2" timestamp="1581614597847">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="265" y="106" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1581614597847" />
     <state x="100" y="126" width="1146" height="488" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581614410505">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="100" y="126" width="1146" height="488" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1581614410505" />
+    <state x="484" y="289" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581618885937">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="289" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1581618885937" />
   </component>
 </project>
