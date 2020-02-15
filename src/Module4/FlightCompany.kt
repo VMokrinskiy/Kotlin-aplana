@@ -1,10 +1,16 @@
 package Module4
 
 fun main(Args: Array<String>){
-    var boeing747: Boeing747 = Boeing747(1,2,12.0,23.2)
+    /*var boeing747: Boeing747 = Boeing747(1,2,12.0,23.2)
     println(boeing747.numOfPassengers)
-    boeing747.printInfo()
+    boeing747.printInfo()*/
+    var auto: Auto = Auto("Audi", "Yellow", "151651")
+    println(auto.toString())
 }
+
+data class Auto(val Mark:String, val Colour:String, val Number:String)
+
+
 
 open interface Passenger{
     val numOfPassengers:Int
