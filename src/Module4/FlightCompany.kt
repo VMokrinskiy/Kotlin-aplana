@@ -2,10 +2,11 @@ package Module4
 
 fun main(Args: Array<String>){
     var flight: AirCraft = AirCraft(2, 132.3, 10.2)
-    println(flight.fuelConsamption)
+    var boeing747: Boeing747 = Boeing747(1,2,12.0,23.2)
+    println(boeing747.numOfPassengers)
 }
 
-class AirCraft(numberOfPlane:Int, maxFlightDistance:Double, maxCapacityOfFuel:Double) {
+open class AirCraft(numberOfPlane:Int, maxFlightDistance:Double, maxCapacityOfFuel:Double) {
     var numberOfPlane: Int = 1
     var maxFlightDistance: Double = 1000.0
     var maxCapacityOfFuel: Double = 15.9
@@ -16,4 +17,11 @@ class AirCraft(numberOfPlane:Int, maxFlightDistance:Double, maxCapacityOfFuel:Do
     }
     var fuelConsamption: Double = 2.3
         get() = (maxCapacityOfFuel * 100 / maxFlightDistance)
+}
+
+class Boeing747(numOfPassengers:Int, numberOfPlane:Int, maxFlightDistance:Double, maxCapacityOfFuel:Double) : AirCraft(numberOfPlane,maxFlightDistance, maxCapacityOfFuel){
+    var numOfPassengers:Int
+    init{
+        this.numOfPassengers = numOfPassengers
+    }
 }
