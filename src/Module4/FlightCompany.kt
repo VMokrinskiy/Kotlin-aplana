@@ -6,6 +6,10 @@ fun main(Args: Array<String>){
     println(boeing747.numOfPassengers)
 }
 
+open interface Passenger{
+    val numOfPassengers:Int
+}
+
 open class AirCraft(numberOfPlane:Int, maxFlightDistance:Double, maxCapacityOfFuel:Double) {
     var numberOfPlane: Int = 1
     var maxFlightDistance: Double = 1000.0
@@ -19,8 +23,8 @@ open class AirCraft(numberOfPlane:Int, maxFlightDistance:Double, maxCapacityOfFu
         get() = (maxCapacityOfFuel * 100 / maxFlightDistance)
 }
 
-class Boeing747(numOfPassengers:Int, numberOfPlane:Int, maxFlightDistance:Double, maxCapacityOfFuel:Double) : AirCraft(numberOfPlane,maxFlightDistance, maxCapacityOfFuel){
-    var numOfPassengers:Int
+class Boeing747(numOfPassengers:Int, numberOfPlane:Int, maxFlightDistance:Double, maxCapacityOfFuel:Double) : Passenger{
+    override val numOfPassengers:Int
     init{
         this.numOfPassengers = numOfPassengers
     }
